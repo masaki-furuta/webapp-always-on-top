@@ -1,6 +1,6 @@
 {
-  "name": "Youtube Always on Top",
-  "description": "Youtube always on top windows",
+  "name": "Google Translate Always on Top",
+  "description": "Site webview always on top windows",
   "version": "1.0.1",
   "manifest_version": 2,
   "app": {
@@ -10,6 +10,6 @@
   },
   "permissions": ["alwaysOnTopWindows", "webview", "storage"],
   "icons": {
-    "128": "icon_128.red.png"
+    "128": "icon.png"
   }
 }
