@@ -4,7 +4,7 @@ const configWindow = {
     height: 500
   },
   minWidth: 800,
-  minHeight: 450,
+  minHeight: 500,
   resizable: true,
   frame: "none",
   alwaysOnTop: true,
