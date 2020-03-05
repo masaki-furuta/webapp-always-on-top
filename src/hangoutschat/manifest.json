@@ -1,0 +1,15 @@
+{
+  "name": "Google Hangouts Chat Always on Top",
+  "description": "Site webview always on top windows",
+  "version": "1.0.1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "permissions": ["alwaysOnTopWindows", "webview", "storage"],
+  "icons": {
+    "128": "icon.png"
+  }
+}
